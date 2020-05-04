@@ -1,0 +1,1 @@
+export const app_uri = 'http://10.0.0.7';
